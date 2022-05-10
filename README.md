@@ -1,5 +1,7 @@
 # Devsla
-Recriado um site da Tesla com a finalidade de estudo das tecnologias HTML e CSS.
+Recriado um site da Tesla com a finalidade de estudo das tecnologias HTML e CSS. <br/>
+
+Link: https://gabrielgrua.github.io/Devsla/ <br/>
 
 Imagem do site após recriação:
 <br>
